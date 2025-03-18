@@ -1,0 +1,27 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+/* Banner section */
+.backdrop {
+    background: url("../images/banner_img.jpg");
+    background-size: cover;
+    height: 91vh;
+}
+
+.shade {
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 91vh;
+}
+
+.banner-paragraph {
+    font-size: 1.1rem;
+}
+
+.banner-h1-margin {
+    margin: 120px 0 30px 0;
+}
+
+
